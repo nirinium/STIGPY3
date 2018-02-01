@@ -4,6 +4,7 @@
 import os
 import sys
 import logging #will be implementing logging soon
+import fnmatch
 
 from bs4 import BeautifulSoup
 # PYTHON 3.X

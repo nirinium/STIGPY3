@@ -2768,3 +2768,256 @@ C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\Ext
 2018-01-28T09:24:27: Saving group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\bs4"
 2018-01-28T09:24:27: End of group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\bs4"
 2018-01-28T09:24:28: Deleting 0 files
+
+2018-01-29T09:47:53: Start analysis
+2018-01-29T09:47:54: IncludeModulesFromModulePath = win32com
+2018-01-29T09:47:55: Including c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\progressbar because progressbar.compat needs updating
+2018-01-29T09:47:55: Deleting 0 files
+2018-01-29T09:47:55: astropy.CallDepth = 0
+2018-01-29T09:47:55: delphixpy.CallDepth = 0
+2018-01-29T09:47:55: matplotlib.CallDepth = 3
+2018-01-29T09:47:55: pandas.CallDepth = 0
+2018-01-29T09:47:55: sympy.CallDepth = 0
+2018-01-29T09:47:55: Start group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\progressbar" with 4 files
+2018-01-29T09:47:56: Parsing complete
+2018-01-29T09:47:56: Analyzing "progressbar.compat" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\progressbar\compat.py")
+2018-01-29T09:47:56: Analyzing "progressbar.progressbar" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\progressbar\progressbar.py")
+2018-01-29T09:47:56: Analyzing "progressbar.widgets" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\progressbar\widgets.py")
+2018-01-29T09:47:56: Analyzing "progressbar" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\progressbar\__init__.py")
+2018-01-29T09:47:56: Starting analysis of 4 modules
+2018-01-29T09:47:57: Analysis complete
+2018-01-29T09:47:57: Saving group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\progressbar"
+2018-01-29T09:47:57: End of group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\progressbar"
+2018-01-29T09:47:58: Deleting 0 files
+
+2018-01-29T10:10:08: Start analysis
+2018-01-29T10:10:08: IncludeModulesFromModulePath = win32com
+2018-01-29T10:10:09: Deleting 0 files
+
+2018-01-29T10:21:25: Start analysis
+2018-01-29T10:21:26: IncludeModulesFromModulePath = win32com
+2018-01-29T10:21:27: Deleting 4 files
+2018-01-29T10:21:27: Deleting "C:\Users\colto\source\repos\STIGPY3\STIGPY3\env\.ptvs\progressbar\progressbar.compat.idb"
+2018-01-29T10:21:27: Deleting "C:\Users\colto\source\repos\STIGPY3\STIGPY3\env\.ptvs\progressbar\progressbar.idb"
+2018-01-29T10:21:27: Deleting "C:\Users\colto\source\repos\STIGPY3\STIGPY3\env\.ptvs\progressbar\progressbar.progressbar.idb"
+2018-01-29T10:21:27: Deleting "C:\Users\colto\source\repos\STIGPY3\STIGPY3\env\.ptvs\progressbar\progressbar.widgets.idb"
+
+2018-01-29T14:05:55: Start analysis
+2018-01-29T14:05:55: IncludeModulesFromModulePath = win32com
+2018-01-29T14:05:56: Including c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml because lxml.builder needs updating
+2018-01-29T14:05:56: Deleting 0 files
+2018-01-29T14:05:56: Scraping lxml.builder
+2018-01-29T14:05:56: Command: C:\Users\colto\source\repos\STIGPY3\STIGPY3\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape lxml.builder c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages C:\Users\colto\source\repos\STIGPY3\STIGPY3\env\.ptvs\lxml\lxml.builder
+2018-01-29T14:05:56: Scraping lxml.etree
+2018-01-29T14:05:56: Command: C:\Users\colto\source\repos\STIGPY3\STIGPY3\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape lxml.etree c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages C:\Users\colto\source\repos\STIGPY3\STIGPY3\env\.ptvs\lxml\lxml.etree
+2018-01-29T14:05:57: Scraping lxml.objectify
+2018-01-29T14:05:57: Command: C:\Users\colto\source\repos\STIGPY3\STIGPY3\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape lxml.objectify c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages C:\Users\colto\source\repos\STIGPY3\STIGPY3\env\.ptvs\lxml\lxml.objectify
+2018-01-29T14:05:57: Scraping lxml._elementpath
+2018-01-29T14:05:57: Command: C:\Users\colto\source\repos\STIGPY3\STIGPY3\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape lxml._elementpath c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages C:\Users\colto\source\repos\STIGPY3\STIGPY3\env\.ptvs\lxml\lxml._elementpath
+2018-01-29T14:05:58: Scraping lxml.html.clean
+2018-01-29T14:05:58: Command: C:\Users\colto\source\repos\STIGPY3\STIGPY3\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape lxml.html.clean c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages C:\Users\colto\source\repos\STIGPY3\STIGPY3\env\.ptvs\lxml\lxml.html.clean
+2018-01-29T14:05:58: Scraping lxml.html.diff
+2018-01-29T14:05:58: Command: C:\Users\colto\source\repos\STIGPY3\STIGPY3\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\Extensions\Microsoft\Python\Core\ExtensionScraper.py" scrape lxml.html.diff c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages C:\Users\colto\source\repos\STIGPY3\STIGPY3\env\.ptvs\lxml\lxml.html.diff
+2018-01-29T14:05:58: Scraped 6 files
+2018-01-29T14:05:58: astropy.CallDepth = 0
+2018-01-29T14:05:58: delphixpy.CallDepth = 0
+2018-01-29T14:05:58: matplotlib.CallDepth = 3
+2018-01-29T14:05:58: pandas.CallDepth = 0
+2018-01-29T14:05:58: sympy.CallDepth = 0
+2018-01-29T14:05:58: Start group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml" with 20 files
+2018-01-29T14:05:59: Parsing complete
+2018-01-29T14:05:59: Analyzing "lxml.cssselect" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml\cssselect.py")
+2018-01-29T14:05:59: Analyzing "lxml.doctestcompare" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml\doctestcompare.py")
+2018-01-29T14:05:59: Analyzing "lxml.ElementInclude" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml\ElementInclude.py")
+2018-01-29T14:05:59: Analyzing "lxml.pyclasslookup" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml\pyclasslookup.py")
+2018-01-29T14:05:59: Analyzing "lxml.sax" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml\sax.py")
+2018-01-29T14:05:59: Analyzing "lxml.usedoctest" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml\usedoctest.py")
+2018-01-29T14:05:59: Analyzing "lxml" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml\__init__.py")
+2018-01-29T14:05:59: Analyzing "lxml.html.builder" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml\html\builder.py")
+2018-01-29T14:05:59: Analyzing "lxml.html.defs" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml\html\defs.py")
+2018-01-29T14:05:59: Analyzing "lxml.html.ElementSoup" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml\html\ElementSoup.py")
+2018-01-29T14:05:59: Analyzing "lxml.html.formfill" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml\html\formfill.py")
+2018-01-29T14:05:59: Analyzing "lxml.html.html5parser" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml\html\html5parser.py")
+2018-01-29T14:05:59: Analyzing "lxml.html.soupparser" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml\html\soupparser.py")
+2018-01-29T14:05:59: Analyzing "lxml.html.usedoctest" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml\html\usedoctest.py")
+2018-01-29T14:05:59: Analyzing "lxml.html._diffcommand" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml\html\_diffcommand.py")
+2018-01-29T14:05:59: Analyzing "lxml.html._html5builder" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml\html\_html5builder.py")
+2018-01-29T14:05:59: Analyzing "lxml.html._setmixin" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml\html\_setmixin.py")
+2018-01-29T14:05:59: Analyzing "lxml.html" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml\html\__init__.py")
+2018-01-29T14:05:59: Analyzing "lxml.includes" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml\includes\__init__.py")
+2018-01-29T14:05:59: Analyzing "lxml.isoschematron" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml\isoschematron\__init__.py")
+2018-01-29T14:05:59: Starting analysis of 20 modules
+2018-01-29T14:06:00: Analysis complete
+2018-01-29T14:06:00: Saving group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml"
+2018-01-29T14:06:00: End of group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\lxml"
+2018-01-29T14:06:01: Deleting 0 files
+
+2018-01-31T16:58:10: Start analysis
+2018-01-31T16:58:11: IncludeModulesFromModulePath = win32com
+2018-01-31T16:58:12: Including c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\certifi because certifi.core needs updating
+2018-01-31T16:58:12: Including c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet because chardet.big5freq needs updating
+2018-01-31T16:58:12: Including c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\idna because idna.codec needs updating
+2018-01-31T16:58:12: Including c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests because requests.adapters needs updating
+2018-01-31T16:58:12: Including c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3 because urllib3.connection needs updating
+2018-01-31T16:58:12: Deleting 0 files
+2018-01-31T16:58:12: astropy.CallDepth = 0
+2018-01-31T16:58:12: delphixpy.CallDepth = 0
+2018-01-31T16:58:12: matplotlib.CallDepth = 3
+2018-01-31T16:58:12: pandas.CallDepth = 0
+2018-01-31T16:58:12: sympy.CallDepth = 0
+2018-01-31T16:58:12: Start group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\certifi" with 3 files
+2018-01-31T16:58:13: Parsing complete
+2018-01-31T16:58:13: Analyzing "certifi.core" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\certifi\core.py")
+2018-01-31T16:58:13: Analyzing "certifi" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\certifi\__init__.py")
+2018-01-31T16:58:13: Analyzing "certifi.__main__" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\certifi\__main__.py")
+2018-01-31T16:58:13: Starting analysis of 3 modules
+2018-01-31T16:58:14: Analysis complete
+2018-01-31T16:58:14: Saving group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\certifi"
+2018-01-31T16:58:14: [ERROR] certifi.core.old_where: Unknown has no name
+2018-01-31T16:58:14: [ERROR] certifi.core.where: Unknown has no name
+2018-01-31T16:58:14: End of group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\certifi"
+2018-01-31T16:58:14: Start group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet" with 41 files
+2018-01-31T16:58:15: Parsing complete
+2018-01-31T16:58:15: Analyzing "chardet.big5freq" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\big5freq.py")
+2018-01-31T16:58:15: Analyzing "chardet.big5prober" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\big5prober.py")
+2018-01-31T16:58:15: Analyzing "chardet.chardistribution" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\chardistribution.py")
+2018-01-31T16:58:15: Analyzing "chardet.charsetgroupprober" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\charsetgroupprober.py")
+2018-01-31T16:58:15: Analyzing "chardet.charsetprober" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\charsetprober.py")
+2018-01-31T16:58:15: Analyzing "chardet.codingstatemachine" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\codingstatemachine.py")
+2018-01-31T16:58:15: Analyzing "chardet.compat" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\compat.py")
+2018-01-31T16:58:15: Analyzing "chardet.cp949prober" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\cp949prober.py")
+2018-01-31T16:58:15: Analyzing "chardet.enums" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\enums.py")
+2018-01-31T16:58:15: Analyzing "chardet.escprober" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\escprober.py")
+2018-01-31T16:58:15: Analyzing "chardet.escsm" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\escsm.py")
+2018-01-31T16:58:15: Analyzing "chardet.eucjpprober" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\eucjpprober.py")
+2018-01-31T16:58:15: Analyzing "chardet.euckrfreq" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\euckrfreq.py")
+2018-01-31T16:58:15: Analyzing "chardet.euckrprober" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\euckrprober.py")
+2018-01-31T16:58:15: Analyzing "chardet.euctwfreq" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\euctwfreq.py")
+2018-01-31T16:58:15: Analyzing "chardet.euctwprober" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\euctwprober.py")
+2018-01-31T16:58:15: Analyzing "chardet.gb2312freq" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\gb2312freq.py")
+2018-01-31T16:58:15: Analyzing "chardet.gb2312prober" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\gb2312prober.py")
+2018-01-31T16:58:15: Analyzing "chardet.hebrewprober" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\hebrewprober.py")
+2018-01-31T16:58:15: Analyzing "chardet.jisfreq" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\jisfreq.py")
+2018-01-31T16:58:15: Analyzing "chardet.jpcntx" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\jpcntx.py")
+2018-01-31T16:58:15: Analyzing "chardet.langbulgarianmodel" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\langbulgarianmodel.py")
+2018-01-31T16:58:15: Analyzing "chardet.langcyrillicmodel" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\langcyrillicmodel.py")
+2018-01-31T16:58:15: Analyzing "chardet.langgreekmodel" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\langgreekmodel.py")
+2018-01-31T16:58:15: Analyzing "chardet.langhebrewmodel" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\langhebrewmodel.py")
+2018-01-31T16:58:15: Analyzing "chardet.langhungarianmodel" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\langhungarianmodel.py")
+2018-01-31T16:58:15: Analyzing "chardet.langthaimodel" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\langthaimodel.py")
+2018-01-31T16:58:15: Analyzing "chardet.langturkishmodel" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\langturkishmodel.py")
+2018-01-31T16:58:15: Analyzing "chardet.latin1prober" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\latin1prober.py")
+2018-01-31T16:58:15: Analyzing "chardet.mbcharsetprober" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\mbcharsetprober.py")
+2018-01-31T16:58:15: Analyzing "chardet.mbcsgroupprober" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\mbcsgroupprober.py")
+2018-01-31T16:58:15: Analyzing "chardet.mbcssm" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\mbcssm.py")
+2018-01-31T16:58:15: Analyzing "chardet.sbcharsetprober" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\sbcharsetprober.py")
+2018-01-31T16:58:15: Analyzing "chardet.sbcsgroupprober" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\sbcsgroupprober.py")
+2018-01-31T16:58:15: Analyzing "chardet.sjisprober" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\sjisprober.py")
+2018-01-31T16:58:15: Analyzing "chardet.universaldetector" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\universaldetector.py")
+2018-01-31T16:58:15: Analyzing "chardet.utf8prober" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\utf8prober.py")
+2018-01-31T16:58:15: Analyzing "chardet.version" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\version.py")
+2018-01-31T16:58:15: Analyzing "chardet" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\__init__.py")
+2018-01-31T16:58:15: Analyzing "chardet.cli.chardetect" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\cli\chardetect.py")
+2018-01-31T16:58:15: Analyzing "chardet.cli" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet\cli\__init__.py")
+2018-01-31T16:58:15: Starting analysis of 41 modules
+2018-01-31T16:58:16: Analysis complete
+2018-01-31T16:58:16: Saving group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet"
+2018-01-31T16:58:17: End of group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\chardet"
+2018-01-31T16:58:17: Start group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\idna" with 8 files
+2018-01-31T16:58:18: Parsing complete
+2018-01-31T16:58:18: Analyzing "idna.codec" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\idna\codec.py")
+2018-01-31T16:58:18: Analyzing "idna.compat" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\idna\compat.py")
+2018-01-31T16:58:18: Analyzing "idna.core" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\idna\core.py")
+2018-01-31T16:58:18: Analyzing "idna.idnadata" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\idna\idnadata.py")
+2018-01-31T16:58:18: Analyzing "idna.intranges" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\idna\intranges.py")
+2018-01-31T16:58:18: Analyzing "idna.package_data" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\idna\package_data.py")
+2018-01-31T16:58:18: Analyzing "idna.uts46data" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\idna\uts46data.py")
+2018-01-31T16:58:18: Analyzing "idna" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\idna\__init__.py")
+2018-01-31T16:58:18: Starting analysis of 8 modules
+2018-01-31T17:01:54: Analysis complete
+2018-01-31T17:01:54: Saving group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\idna"
+2018-01-31T17:01:55: End of group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\idna"
+2018-01-31T17:01:55: Start group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests" with 18 files
+2018-01-31T17:01:55: Parsing complete
+2018-01-31T17:01:55: Analyzing "requests.adapters" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests\adapters.py")
+2018-01-31T17:01:55: Analyzing "requests.api" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests\api.py")
+2018-01-31T17:01:55: Analyzing "requests.auth" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests\auth.py")
+2018-01-31T17:01:55: Analyzing "requests.certs" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests\certs.py")
+2018-01-31T17:01:55: Analyzing "requests.compat" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests\compat.py")
+2018-01-31T17:01:55: Analyzing "requests.cookies" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests\cookies.py")
+2018-01-31T17:01:55: Analyzing "requests.exceptions" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests\exceptions.py")
+2018-01-31T17:01:55: Analyzing "requests.help" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests\help.py")
+2018-01-31T17:01:55: Analyzing "requests.hooks" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests\hooks.py")
+2018-01-31T17:01:55: Analyzing "requests.models" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests\models.py")
+2018-01-31T17:01:55: Analyzing "requests.packages" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests\packages.py")
+2018-01-31T17:01:55: Analyzing "requests.sessions" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests\sessions.py")
+2018-01-31T17:01:55: Analyzing "requests.status_codes" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests\status_codes.py")
+2018-01-31T17:01:55: Analyzing "requests.structures" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests\structures.py")
+2018-01-31T17:01:55: Analyzing "requests.utils" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests\utils.py")
+2018-01-31T17:01:55: Analyzing "requests._internal_utils" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests\_internal_utils.py")
+2018-01-31T17:01:55: Analyzing "requests" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests\__init__.py")
+2018-01-31T17:01:55: Analyzing "requests.__version__" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests\__version__.py")
+2018-01-31T17:01:55: Starting analysis of 18 modules
+2018-01-31T17:01:56: Analysis complete
+2018-01-31T17:01:56: Saving group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests"
+2018-01-31T17:01:56: [ERROR] requests.models.PreparedRequest.PreparedRequest: Unknown has no name
+2018-01-31T17:01:56: [ERROR] requests.utils.to_key_val_list: Unknown has no name
+2018-01-31T17:01:56: End of group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\requests"
+2018-01-31T17:01:56: Start group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3" with 36 files
+2018-01-31T17:01:57: Parsing complete
+2018-01-31T17:01:57: Analyzing "urllib3.connection" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\connection.py")
+2018-01-31T17:01:57: Analyzing "urllib3.connectionpool" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\connectionpool.py")
+2018-01-31T17:01:57: Analyzing "urllib3.exceptions" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\exceptions.py")
+2018-01-31T17:01:57: Analyzing "urllib3.fields" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\fields.py")
+2018-01-31T17:01:57: Analyzing "urllib3.filepost" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\filepost.py")
+2018-01-31T17:01:57: Analyzing "urllib3.poolmanager" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\poolmanager.py")
+2018-01-31T17:01:57: Analyzing "urllib3.request" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\request.py")
+2018-01-31T17:01:57: Analyzing "urllib3.response" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\response.py")
+2018-01-31T17:01:57: Analyzing "urllib3._collections" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\_collections.py")
+2018-01-31T17:01:57: Analyzing "urllib3" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\__init__.py")
+2018-01-31T17:01:57: Analyzing "urllib3.contrib.appengine" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\contrib\appengine.py")
+2018-01-31T17:01:57: Analyzing "urllib3.contrib.ntlmpool" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\contrib\ntlmpool.py")
+2018-01-31T17:01:57: Analyzing "urllib3.contrib.pyopenssl" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\contrib\pyopenssl.py")
+2018-01-31T17:01:57: Analyzing "urllib3.contrib.securetransport" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\contrib\securetransport.py")
+2018-01-31T17:01:57: Analyzing "urllib3.contrib.socks" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\contrib\socks.py")
+2018-01-31T17:01:57: Analyzing "urllib3.contrib" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\contrib\__init__.py")
+2018-01-31T17:01:57: Analyzing "urllib3.contrib._securetransport.bindings" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\contrib\_securetransport\bindings.py")
+2018-01-31T17:01:57: Analyzing "urllib3.contrib._securetransport.low_level" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\contrib\_securetransport\low_level.py")
+2018-01-31T17:01:57: Analyzing "urllib3.contrib._securetransport" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\contrib\_securetransport\__init__.py")
+2018-01-31T17:01:57: Analyzing "urllib3.packages.ordered_dict" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\packages\ordered_dict.py")
+2018-01-31T17:01:57: Analyzing "urllib3.packages.six" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\packages\six.py")
+2018-01-31T17:01:57: Analyzing "urllib3.packages" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\packages\__init__.py")
+2018-01-31T17:01:57: Analyzing "urllib3.packages.backports.makefile" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\packages\backports\makefile.py")
+2018-01-31T17:01:57: Analyzing "urllib3.packages.backports" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\packages\backports\__init__.py")
+2018-01-31T17:01:57: Analyzing "urllib3.packages.ssl_match_hostname._implementation" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2018-01-31T17:01:57: Analyzing "urllib3.packages.ssl_match_hostname" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2018-01-31T17:01:57: Analyzing "urllib3.util.connection" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\util\connection.py")
+2018-01-31T17:01:57: Analyzing "urllib3.util.request" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\util\request.py")
+2018-01-31T17:01:57: Analyzing "urllib3.util.response" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\util\response.py")
+2018-01-31T17:01:57: Analyzing "urllib3.util.retry" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\util\retry.py")
+2018-01-31T17:01:57: Analyzing "urllib3.util.selectors" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\util\selectors.py")
+2018-01-31T17:01:57: Analyzing "urllib3.util.ssl_" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\util\ssl_.py")
+2018-01-31T17:01:57: Analyzing "urllib3.util.timeout" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\util\timeout.py")
+2018-01-31T17:01:57: Analyzing "urllib3.util.url" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\util\url.py")
+2018-01-31T17:01:57: Analyzing "urllib3.util.wait" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\util\wait.py")
+2018-01-31T17:01:57: Analyzing "urllib3.util" ("c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3\util\__init__.py")
+2018-01-31T17:01:57: Starting analysis of 36 modules
+2018-01-31T17:01:59: Analysis complete
+2018-01-31T17:01:59: Saving group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3"
+2018-01-31T17:02:00: [ERROR] urllib3.util.wait._wait_for_io_events: Unknown has no name
+2018-01-31T17:02:00: [ERROR] urllib3.exceptions.MaxRetryError.MaxRetryError: Unknown has no name
+2018-01-31T17:02:00: [ERROR] urllib3.packages.six.itervalues: Unknown has no name
+2018-01-31T17:02:00: [ERROR] urllib3.packages.six.itervalues: Unknown has no name
+2018-01-31T17:02:00: [ERROR] urllib3.packages.six.iterkeys: Unknown has no name
+2018-01-31T17:02:00: [ERROR] urllib3.packages.six.iterkeys: Unknown has no name
+2018-01-31T17:02:00: [ERROR] urllib3.util.selectors.EpollSelector.EpollSelector: Unknown has no name
+2018-01-31T17:02:00: [ERROR] urllib3.util.selectors.SelectSelector.SelectSelector: Unknown has no name
+2018-01-31T17:02:00: [ERROR] urllib3.util.selectors.KqueueSelector.KqueueSelector: Unknown has no name
+2018-01-31T17:02:00: [ERROR] urllib3.util.selectors.PollSelector.PollSelector: Unknown has no name
+2018-01-31T17:02:00: [ERROR] urllib3.util.selectors._DEFAULT_SELECTOR.KqueueSelector: Unknown has no name
+2018-01-31T17:02:00: [ERROR] urllib3.util.selectors._DEFAULT_SELECTOR.PollSelector: Unknown has no name
+2018-01-31T17:02:00: [ERROR] urllib3.util.selectors._DEFAULT_SELECTOR.SelectSelector: Unknown has no name
+2018-01-31T17:02:00: [ERROR] urllib3.util.selectors._DEFAULT_SELECTOR.EpollSelector: Unknown has no name
+2018-01-31T17:02:00: [ERROR] urllib3._collections.RecentlyUsedContainer.RecentlyUsedContainer: Unknown has no name
+2018-01-31T17:02:00: End of group "c:\users\colto\source\repos\stigpy3\stigpy3\env\lib\site-packages\urllib3"
+2018-01-31T17:02:01: Deleting 0 files
